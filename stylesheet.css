@@ -135,7 +135,11 @@ header {
   float: left;
   width: 25%;
 }
-
+.ましろアイコン {
+  height: 200px;
+  width: 200px;
+   
+}
 .lesson-icon {
   position: relative;
 }
