@@ -136,6 +136,16 @@ header {
   width: 25%;
 }
 
+img.ご党首アイコン {
+width: 96px;
+height: 65px;
+}
+
+img.ふぁるアイコン {
+width: 96px;
+height: 65px;
+}
+
 .lesson-icon {
   position: relative;
 }
