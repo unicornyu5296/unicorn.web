@@ -180,6 +180,9 @@ height: 200px;
 }
 
 .message-wrapper {
+  background-image: url(トップ画.png);
+  background-size: cover;
+  color: white;
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
   text-align: center;
