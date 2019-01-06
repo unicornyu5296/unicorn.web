@@ -156,7 +156,7 @@ width: 200px;
 height: 200px;
 }
 
-.icons {
+.icon {
   position: relative;
 }
 
@@ -225,12 +225,12 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
-  .lesson {
+  .icons {
     width: 50%;
     margin-bottom: 50px;
   }
 
-  .lesson-wrapper {
+  .icons-wrapper {
     height: 990px;
   }
 
