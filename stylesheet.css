@@ -180,12 +180,12 @@ height: 200px;
 }
 
 .message-wrapper {
+  padding: 180px 0 100px 0;
   background-image: url(FC.jpg);
   background-size: cover;
   color: white;
   border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
-  text-align: center;
+    text-align: center;
 }
 
 .message {
