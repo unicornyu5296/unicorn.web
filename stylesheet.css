@@ -131,7 +131,7 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.icons {
   float: left;
   width: 25%;
 }
@@ -146,11 +146,21 @@ width: 200px;
 height: 200px;
 }
 
-.lesson-icon {
+img.フォルさんアイコン {
+width: 200px;
+height: 200px;
+}
+
+img.ギンさんアイコン {
+width: 200px;
+height: 200px;
+}
+
+.icon {
   position: relative;
 }
 
-.lesson-icon p {
+.icon p {
   position: absolute;
   top: 37%;
   width: 100%;
