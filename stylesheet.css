@@ -181,17 +181,17 @@ height: 200px;
 
 .message-wrapper {
   
-  padding: 180px 0 100px 0;
+  padding: 200px 0 200px 0;
   background-image: url(FC.jpg);
   background-size: cover;
-  color: white;
+  color: #35f842;
   border-bottom: 1px solid #eee;
     text-align: center;
 }
 
 .message {
   padding: 15px 40px;
-  background-color: white;
+  background-color: ;
   cursor: pointer;
   box-shadow: 0px 7px #1a7940;
 }
@@ -282,11 +282,11 @@ footer {
     font-size: 14px;
   }
 
-  .lesson {
+  .icons {
     width: 100%;
   }
 
-  .lesson-wrapper {
+  .icons-wrapper {
     height: 1700px;
   }
 
