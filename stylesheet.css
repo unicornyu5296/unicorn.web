@@ -122,7 +122,7 @@ header {
 }
 
 .icons-wrapper2 {
-  height: 300px;
+  height: 320px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -178,7 +178,7 @@ height: 200px;
 }
 
 .message-wrapper {
-  
+  height: max-content;
   padding: 200px 0 250px 0;
   background-image: url(FC.jpg);
   background-size: cover;
